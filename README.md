@@ -34,10 +34,11 @@ Prática 01: Envio de três pacotes de STAs diferentes;</br>
 Prática 02: Uso do NetAnim para verificar o movimento dos usuários.</br> 
 [Code: Hands-On 03 Parte 2](https://github.com/eribertogppcom/Pesquisa_Mestrado/blob/main/handsON03p2.cc) <br/>
 
-
-
-
-
-    
+### Hands-on 04: Desafios relacionados ao exemplo third.cc parte 2
+### Objetivos
+Prática 01: Mudar modelo de mobilidade, plotar as posições das STAs com o GNUPlot.;</br>
+[Code: Hands-On 04 Parte 1](https://github.com/eribertogppcom/Pesquisa_Mestrado/blob/main/handsON04.cc) <br/>
+[Code: Hands-On 04 Parte 2](https://github.com/eribertogppcom/Pesquisa_Mestrado/blob/main/handsON04_p2.cc) <br/>
+[Descrição do código](http://localhost:8888/notebooks/Hands-On-04.ipynb) <br/>
 
 
