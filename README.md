@@ -23,6 +23,19 @@ Prática 02: Aumentar número de nós via linha de comando;</br>
 Prática 03: Uso do tcpdump para insperção de arquivos pcap.</br>
 [Descrição do código](http://localhost:8889/notebooks/Hands-On-02.ipynb)<br/>
 
+### Hands-on 03: Desafios relacionados ao exemplo third.cc 
+### Objetivos
+[Descrição do código](http://localhost:8888/notebooks/Hands-On-03.ipynb) <br/>
+Prática 01: Envio de três pacotes de STAs diferentes;</br>
+[Code: Hands-On 03 Parte 1.1](https://github.com/eribertogppcom/Pesquisa_Mestrado/blob/main/handsON03p1.cc) <br/>
+[Code: Hands-On 03 Parte 1.2](https://github.com/eribertogppcom/Pesquisa_Mestrado/blob/main/handsON03p1_2.cc) <br/>
+[Code: Hands-On 03 Parte 1.3](https://github.com/eribertogppcom/Pesquisa_Mestrado/blob/main/handsON03p1_3.cc) <br/>
+[Code: Hands-On 03 Parte 1.4](https://github.com/eribertogppcom/Pesquisa_Mestrado/blob/main/handsON03p1_4.cc) <br/>
+Prática 02: Uso do NetAnim para verificar o movimento dos usuários.</br> 
+[Code: Hands-On 03 Parte 2](https://github.com/eribertogppcom/Pesquisa_Mestrado/blob/main/handsON03p2.cc) <br/>
+
+
+
 
 
     
