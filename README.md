@@ -36,9 +36,30 @@ Prática 02: Uso do NetAnim para verificar o movimento dos usuários.</br>
 
 ### Hands-on 04: Desafios relacionados ao exemplo third.cc parte 2
 ### Objetivos
-Prática 01: Mudar modelo de mobilidade, plotar as posições das STAs com o GNUPlot.;</br>
+Prática 01: Mudar modelo de mobilidade, plotar as posições das STAs com o GNUPlot.</br>
 [Code: Hands-On 04 Parte 1](https://github.com/eribertogppcom/Pesquisa_Mestrado/blob/main/handsON04.cc) <br/>
 [Code: Hands-On 04 Parte 2](https://github.com/eribertogppcom/Pesquisa_Mestrado/blob/main/handsON04_p2.cc) <br/>
 [Descrição do código](http://localhost:8888/notebooks/Hands-On-04.ipynb) <br/>
+
+
+### Hands-on 05: Desafios relacionados ao exemplo fifth.cc
+### Objetivos
+ Prática 01: uso do GNUPlot para visualizar a janela de congestionamento.
+[Code: Hands-On 05](https://github.com/eribertogppcom/Pesquisa_Mestrado/blob/main/handsON05_p1.cc) <br/>
+[Descrição do código](http://localhost:8888/notebooks/Hands-On-05.ipynb) <br/>
+
+### Hands-on 06: Uso dos exemplos sixth.cc e seventh.cc
+### Objetivos
+ - Descrever os exemplos sixth.cc e seventh.cc; </br>
+ - Gerar o gráfico do seventh.cc.</br>
+[Code: Hands-On 06](https://github.com/eribertogppcom/Pesquisa_Mestrado/blob/main/handsON06_p1.cc) <br/>
+[Descrição do código](http://localhost:8888/notebooks/Hands-ON%2006.ipynb) <br/>
+
+### Hands-on 07: Uso do exemplo rate-adaptation-distance.cc
+### Objetivos
+- Descrever o exemplo rate-adaptation-distance.cc;<br/>
+- Gerar o gráfico Throughput vs. Distância para os valores padrões do script. <br/>
+[Code: Hands-On 05](https://github.com/eribertogppcom/Pesquisa_Mestrado/blob/main/handsON07.cc) <br/>
+[Descrição do código](http://localhost:8888/notebooks/Hands-ON%2007.ipynb) <br/>
 
 
