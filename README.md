@@ -44,7 +44,7 @@ Prática 01: Mudar modelo de mobilidade, plotar as posições das STAs com o GNU
 
 ### Hands-on 05: Desafios relacionados ao exemplo fifth.cc
 ### Objetivos
- Prática 01: uso do GNUPlot para visualizar a janela de congestionamento.
+ Prática 01: uso do GNUPlot para visualizar a janela de congestionamento.<br/>
 [Code: Hands-On 05](https://github.com/eribertogppcom/Pesquisa_Mestrado/blob/main/handsON05_p1.cc) <br/>
 [Descrição do código](http://localhost:8888/notebooks/Hands-On-05.ipynb) <br/>
 
